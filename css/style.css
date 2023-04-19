@@ -141,6 +141,7 @@ img {
 
     .row{
         flex-wrap: wrap;
+        padding-bottom: 2rem;
     }
 
     .lessons .col{
@@ -161,6 +162,11 @@ img {
 
     .why-us{
         background-color: black;
+        padding-top: 3rem;
+        margin-bottom: 0;
     }
     
+    .steps{
+        margin: 0;
+    }
 }
