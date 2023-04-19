@@ -136,3 +136,30 @@ img {
         width: 100%;
     }
 }
+
+@media screen and (max-width:480px){
+
+    .row{
+        flex-wrap: wrap;
+    }
+
+    .lessons .col{
+        width: 80%;
+    }
+
+    .steps .col{
+        width: 80%;
+    }
+
+    .why-us .col-right{
+        width: 80%;
+    }
+
+    .why-us .col-left{
+        width: 80%;
+    }
+
+    .why-us{
+        background-color: black;
+    }
+}
